@@ -6,7 +6,8 @@ My first attempt to create Tic Tac Toe game in C# using Windows Forms Applicatio
 * You can play against a computer - Implemented Artificial Intelligence that randomly picks between available empty spots.
 * Two players can compete against each other.
 
-   <img src="https://user-images.githubusercontent.com/44364396/131225500-66254462-e329-427e-b7c7-b906824947f7.png" width="640" height="220">
+   <img src="https://user-images.githubusercontent.com/44364396/131225500-66254462-e329-427e-b7c7-b906824947f7.png" width="640" height="230">
+
 
 
 #### 👉  To be able to play you have to sign up or log in to your account.
