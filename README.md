@@ -15,5 +15,11 @@ My first attempt to create Tic Tac Toe game in C# using Windows Forms Applicatio
    <img src="https://user-images.githubusercontent.com/44364396/131225500-66254462-e329-427e-b7c7-b906824947f7.png" width="640" height="230">
 
 
-
-
+#### 👉  How to play ?
+* The game is played on a board with nine fields
+* Each field of the board is empty until the player places his symbol on it
+* Players choose their names
+* Two symbols are allowed: a circle and a cross - players choose which symbol to play with
+* Players choose who will start the game first 
+* The players make moves alternately
+* The game may end with a win by one player or a draw
