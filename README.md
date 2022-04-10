@@ -1,6 +1,6 @@
 # Tic-Tac-Toe against AI and player vs player
 ![tic-tac-toe (1)](https://user-images.githubusercontent.com/44364396/126083527-29e79062-5429-4fc5-9e66-65c303c381ef.png)
-My first attempt to create Tic Tac Toe game in C# using Windows Forms Application.
+Tic Tac Toe game using  C# Windows Forms Application.
 # About game
 
 #### 👉  To be able to play you have to sign up or log in to your account.
